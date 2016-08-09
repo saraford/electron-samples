@@ -4,7 +4,7 @@ To learn Electron, I'm breaking down the [electron-api-demos](https://github.com
 
 ### Why create individual apps
 
-**This is a personal call to action pet project.** As an industry, we need to standardize on an "After Hello World" format. We're great at Hello World getting started apps, but then leave the developer hanging afterwards. 
+This is a personal call to action pet project. As an industry, we need to standardize on an "After Hello World" format. We're great at Hello World getting started apps, but then leave the developer hanging afterwards. 
 
 I call it the "get into Art School for free" challenge from those old TV commercial ads. You draw two circles then you're expected to draw the rest of the turtle pirate. As an industry, we can do better. 
 
@@ -12,7 +12,7 @@ Potential developers should read the **After Hello World** template and when the
 
 Every dev has an idea they want to express. Otherwise, they wouldn't be here :)
 
-### After Hello World
+### After Hello World Template
 
 **Part 1 - Installing your developer environment + Hello World**
 
