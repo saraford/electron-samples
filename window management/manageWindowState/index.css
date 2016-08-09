@@ -1,0 +1,42 @@
+body {
+  font-family: system, -apple-system, '.SFNSText-Regular', 'SF UI Text', 'Lucida Grande', 'Segoe UI', Ubuntu, Cantarell, sans-serif;
+  color: #fff;
+  background-color: #8aba87;
+  text-align: center;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 30px;
+}
+
+#close-window {
+  color:#fff;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 16px;
+  text-decoration: none;
+}
+
+#new-window-button {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 16px;
+  text-decoration: none;
+  bottom: 50px;
+}
+
+#manage-window-reply {
+  position: absolute;
+  bottom: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 16px;
+  text-decoration: none;
+}
