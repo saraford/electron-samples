@@ -29,7 +29,7 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 
 #### Available examples:
 
-- **[Frameless window](https://github.com/saraford/electron-samples/tree/master/window%20management/framelessWindow)**
+- **[Frameless window](https://github.com/saraford/electron-samples/tree/master/window%20management/framelessWindow)** 
 
     ![image](https://cloud.githubusercontent.com/assets/11529908/17537251/dbac6c8e-5e4f-11e6-90ca-d2736de99f68.png)
 
@@ -37,7 +37,7 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 
     ![image](https://cloud.githubusercontent.com/assets/11529908/17537292/31c7a016-5e50-11e6-9044-35a3911ceb75.png)
 
-- **[ManageCurrentWindowState](https://github.com/saraford/electron-samples/tree/master/window%20management/manageCurrentWindowState) - Get positing and size of a new window
+- **[ManageCurrentWindowState](https://github.com/saraford/electron-samples/tree/master/window%20management/manageCurrentWindowState)** - Get positing and size of a new window
 
     ![image](https://cloud.githubusercontent.com/assets/11529908/17537779/40994cb2-5e54-11e6-8178-ed6bcb56d58a.png)
 
