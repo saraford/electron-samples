@@ -27,9 +27,9 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 
 #### Available examples:
 
-- **[Frameless window](https://github.com/saraford/electron-samples/tree/master/window%20management/framelessWindow)** 
-- **[ManageWindowState](https://github.com/saraford/electron-samples/tree/master/window%20management/manageWindowState)** - get positioning and size of main window
-- **[ManageCurrentWindowState](https://github.com/saraford/electron-samples/tree/master/window%20management/manageCurrentWindowState)** - Get positing and size of a new window
+- **[ManageCurrentWindowState](https://github.com/saraford/electron-samples/tree/master/window%20management/manageCurrentWindowState)** - Get positing and size of the main window
+- **[ManageWindowState](https://github.com/saraford/electron-samples/tree/master/window%20management/manageWindowState)** - get positioning and size of a new window
+- **[Frameless window](https://github.com/saraford/electron-samples/tree/master/window%20management/framelessWindow)** - opens a new frameless window
 
 ### Part 3 - Input and output
 
@@ -53,7 +53,7 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 ### Part 5 - Native UI
 
 - **[Keyboard shortcuts](https://github.com/saraford/electron-samples/tree/master/menus/keyboard%20shortcuts)**
-- **[system menu](https://github.com/saraford/electron-samples/tree/master/menus/menu)** 
+- **[system menu](https://github.com/saraford/electron-samples/tree/master/menus/menu)** - look in the Electron menu!  
 
 #### Suggested examples: 
 
@@ -74,7 +74,7 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 
 #### Available examples: 
 
-- **[opening the file system](https://github.com/saraford/electron-samples/tree/master/native%20UI/system%20file%20manager)
+- **[opening the file system](https://github.com/saraford/electron-samples/tree/master/native%20UI/system%20file%20manager)** - opens the local file system 
 
 #### Suggested examples: 
 
