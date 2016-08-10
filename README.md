@@ -15,7 +15,8 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 #### Available examples:
 
 - **[Hello World](https://github.com/saraford/electron-samples/tree/master/baseline)** - baseline app for all other apps in this repo
-  - ![image](https://cloud.githubusercontent.com/assets/11529908/17537232/afeae396-5e4f-11e6-8063-dd89e69557a3.png)
+
+    ![image](https://cloud.githubusercontent.com/assets/11529908/17537232/afeae396-5e4f-11e6-8063-dd89e69557a3.png)
 
 #### Suggested examples: 
 
@@ -29,13 +30,16 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 #### Available examples:
 
 - **[Frameless window](https://github.com/saraford/electron-samples/tree/master/window%20management/framelessWindow)**
-  - ![image](https://cloud.githubusercontent.com/assets/11529908/17537251/dbac6c8e-5e4f-11e6-90ca-d2736de99f68.png)
+
+    ![image](https://cloud.githubusercontent.com/assets/11529908/17537251/dbac6c8e-5e4f-11e6-90ca-d2736de99f68.png)
 
 - **[ManageWindowState](https://github.com/saraford/electron-samples/tree/master/window%20management/manageWindowState)** - get positioning and size of main window
-  - ![image](https://cloud.githubusercontent.com/assets/11529908/17537292/31c7a016-5e50-11e6-9044-35a3911ceb75.png)
+
+    ![image](https://cloud.githubusercontent.com/assets/11529908/17537292/31c7a016-5e50-11e6-9044-35a3911ceb75.png)
 
 - **[ManageCurrentWindowState](https://github.com/saraford/electron-samples/tree/master/window%20management/manageCurrentWindowState) - Get positing and size of a new window
-  - ![image](https://cloud.githubusercontent.com/assets/11529908/17537779/40994cb2-5e54-11e6-8178-ed6bcb56d58a.png)
+
+    ![image](https://cloud.githubusercontent.com/assets/11529908/17537779/40994cb2-5e54-11e6-8178-ed6bcb56d58a.png)
 
 ### Part 3 - Input and output
 
@@ -59,12 +63,14 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 ### Part 5 - Native UI
 
 - **[Keyboard shortcuts](https://github.com/saraford/electron-samples/tree/master/menus/keyboard%20shortcuts)**
-  - ![image](https://cloud.githubusercontent.com/assets/11529908/17537877/0aac4fa4-5e55-11e6-8a59-534566f362ec.png)
+
+    ![image](https://cloud.githubusercontent.com/assets/11529908/17537877/0aac4fa4-5e55-11e6-8a59-534566f362ec.png)
 
 - Put your app in the tray
 
 - **[system menu](https://github.com/saraford/electron-samples/tree/master/menus/menu)** 
-  - ![image](https://cloud.githubusercontent.com/assets/11529908/17537892/3146b776-5e55-11e6-9738-ac0219267796.png)
+
+    ![image](https://cloud.githubusercontent.com/assets/11529908/17537892/3146b776-5e55-11e6-9738-ac0219267796.png)
 
 ### Part 6 - UI Frameworks
 
@@ -82,7 +88,8 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 #### Available examples: 
 
 - **[opening the file system](https://github.com/saraford/electron-samples/tree/master/native%20UI/system%20file%20manager)
-  - ![image](https://cloud.githubusercontent.com/assets/11529908/17537790/612e8b9a-5e54-11e6-9f9e-76406c0f0191.png)
+
+    ![image](https://cloud.githubusercontent.com/assets/11529908/17537790/612e8b9a-5e54-11e6-9f9e-76406c0f0191.png)
 
 #### Suggested examples: 
 
