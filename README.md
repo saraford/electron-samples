@@ -52,6 +52,8 @@ I call it the "get into Art School for free" challenge from those [old TV commer
 
 ### Part 5 - Native UI
 
+#### Available examples:
+
 - **[Keyboard shortcuts](https://github.com/saraford/electron-samples/tree/master/menus/keyboard%20shortcuts)**
 - **[system menu](https://github.com/saraford/electron-samples/tree/master/menus/menu)** - look in the Electron menu!  
 
